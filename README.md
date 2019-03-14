@@ -5,11 +5,17 @@ SSCrypt is my custom encryption algorithm in which uses mathematical equations t
 ```
 >>> import sscrypt
 >>> sscrypt.encrypt(data,key)
+```
+###Decrypt Data:
+```
 >>> sscrypt.decrypt(encrypted data,key)
 ```
 ### Encrypt Files:
 ```
 >>> import sscrypt
 >>> sscrypt.encrypt_file(file,key)
+```
+### Decrypt Files:
+```
 >>> sscrypt.decrypt_file(file,key)
 ```
