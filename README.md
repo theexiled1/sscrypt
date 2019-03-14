@@ -1,4 +1,4 @@
-# SSCrypt (SecSploit Encryption)
+# SSCrypt ## (SecSploit Encryption)
 SSCrypt is my custom encryption algorithm in which uses mathematical equations to securely encrypt your data precluding it from being scrutinized without your custom key.
 
 ### Encrypt Data:
