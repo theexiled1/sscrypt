@@ -6,7 +6,7 @@ SSCrypt is my custom encryption algorithm in which uses mathematical equations t
 >>> import sscrypt
 >>> sscrypt.encrypt(data,key)
 ```
-###Decrypt Data:
+### Decrypt Data:
 ```
 >>> sscrypt.decrypt(encrypted data,key)
 ```
